@@ -1,5 +1,8 @@
 # PR Response Doc — CineLog Watchlist Feature
 
+## Commit History
+<img width="1342" height="194" alt="image" src="https://github.com/user-attachments/assets/7e8c3cd8-b121-42e4-bc2b-60795b360617" />
+
 ## AI Usage
 <!-- Fill in at the end — how you used AI tools during this project -->
 
